@@ -1,0 +1,11 @@
+Define HTML Block-Level Elements
+
+Block level elements are the elements always start on a line and the browsers automatically add some space before and after the element .
+A block level Element always takes up the full width available 
+
+Two commonly used block level elements are 
+<p>
+<div>
+
+<p> tag defines the paragraph 
+<div> tag defines the division or a section in the html document 

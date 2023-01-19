@@ -1,0 +1,25 @@
+Write an HTML script to demonstrate the usage of HTML
+Block-Level Elements like
+
+A  <!DOCTYPE html>
+
+    <h1> This is heading 1 </H1>
+    <h2> This is heading 2 </h2>
+    <h3> This is heading 3 </h3>
+    <h4> This is heading 4 </h4>
+    <h5> This is heading 5 </h5>
+    <h6> This is heading 6 </h6>
+
+B  <!DOCTYPE html>
+<html>
+
+<p>
+    P tag defines the pargraph
+</p>
+
+</html>
+
+
+C <div> This is my practical exam </div>
+
+<span> This is my practical exam </span>
